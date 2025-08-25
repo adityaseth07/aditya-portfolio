@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills and projects as a Da
 
 ## 🌐 Live Demo
 
-**[View Live Portfolio](https://adityaseth07.github.io/aditya-portfolio)**
+**[View Live Portfolio](https://aditya-portfolio-web.vercel.app)**
 
 ## 📋 About
 
